@@ -12,6 +12,26 @@ Building a robust BI Reporting Pipeline (Excel → SQL → Power BI) for daily t
 
 Performing a separate Statistical Cluster Analysis (Python) to uncover hidden segmentation patterns in the raw data
 
+
+## 📁 Project Structure
+
+Dashboard/
+- Power BI dashboard screenshots for SEO traffic and keyword analysis
+
+Diagrams/
+- ER Diagram (Star Schema)
+- Keyword clustering workflow diagram
+
+Python/
+- Jupyter Notebook for statistical cluster analysis and exploratory data analysis
+
+Sql/
+- SQL scripts for database schema design and analysis
+
+Powerbi/
+- Interactive Power BI dashboard file
+
+
 🔄 The Workflows
 Workflow 1: Data Engineering & BI Pipeline
 
