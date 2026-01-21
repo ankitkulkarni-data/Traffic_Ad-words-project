@@ -28,6 +28,10 @@ Python/
 Sql/
 - SQL scripts for database schema design and analysis
 
+
+📘 This project was developed as part of the Data Analytics Master Course at IIM SKILLS.
+
+
 Powerbi/
 - Interactive Power BI dashboard file
 - 
