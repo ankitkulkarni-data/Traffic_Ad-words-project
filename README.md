@@ -1,4 +1,4 @@
-** End-to-End SEO Traffic & Keyword Strategy Analysis **
+ End-to-End SEO Traffic & Keyword Strategy Analysis
 
 📌 Project Overview
 
